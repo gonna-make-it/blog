@@ -1,4 +1,4 @@
 baseURL = 'https://blog.nishantbansal.in/'
 languageCode = 'en-us'
-title = 'Nishant's Blog'
+title = 'Nishant''s Blog'
 theme = 'ananke'
